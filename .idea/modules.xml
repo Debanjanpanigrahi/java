@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandelling/ExceptionHandelling.iml" filepath="$PROJECT_DIR$/ExceptionHandelling/ExceptionHandelling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/core java.iml" filepath="$PROJECT_DIR$/.idea/core java.iml" />
       <module fileurl="file://$PROJECT_DIR$/parallalStream/parallalStream.iml" filepath="$PROJECT_DIR$/parallalStream/parallalStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
